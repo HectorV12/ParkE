@@ -1,6 +1,7 @@
 # ParkE
 Project: ParkE (Parking Electronics) A Smart Parking System. It Involves : Ultra Sonic sensors, Arduino Uno
 (Micro controller), ThingSpeak (Cloud/Iot Application) and an Android App
+
 ParkE is a system that will help the Public find individual Parking Spots. Through our App, it will provide a map
 of your current location and the vacancy status of each parking spots in your area in real-time. If you were to
 happen to park in a metered parking, you can pay it through our ParkE app. ParkE uses UltraSonic sensors to
